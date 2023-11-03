@@ -1,0 +1,201 @@
+.component {
+    position: relative;
+    width: 1541px;
+    height: 1024px;
+    background-color: #ffffff;
+  }
+  
+  .component .overlap-group {
+    position: absolute;
+    width: 1402px;
+    height: 390px;
+    top: 634px;
+    left: 48px;
+    border-radius: 10px;
+  }
+  
+  .component .rectangle {
+    width: 220px;
+    height: 72px;
+    top: 36px;
+    left: 54px;
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #000000bf;
+    box-shadow: 0px 16px 25px 4px #b5b8b747;
+    position: absolute;
+    border-radius: 10px;
+  }
+  
+  .component .div {
+    width: 1402px;
+    height: 390px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #7b7b7b;
+    position: absolute;
+    border-radius: 10px;
+  }
+  
+  .component .text-wrapper {
+    position: absolute;
+    top: 55px;
+    left: 96px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .component .text-wrapper-2 {
+    position: absolute;
+    top: 170px;
+    left: 96px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #656565;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .component .text-wrapper-3 {
+    position: absolute;
+    top: 294px;
+    left: 96px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #656565;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .component .line {
+    position: absolute;
+    width: 1px;
+    height: 324px;
+    top: 34px;
+    left: 334px;
+    object-fit: cover;
+  }
+  
+  .component .image {
+    position: absolute;
+    width: 808px;
+    height: 317px;
+    top: 32px;
+    left: 457px;
+    object-fit: cover;
+  }
+  
+  .component .overlap {
+    position: absolute;
+    width: 1541px;
+    height: 90px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgba(33.72, 207.53, 161.79, 0.94) 0%, rgba(0, 228.78, 168.58, 0.89) 73.18%);
+  }
+  
+  .component .vector {
+    position: absolute;
+    width: 33px;
+    height: 58px;
+    top: 16px;
+    left: 111px;
+  }
+  
+  .component .text-wrapper-4 {
+    position: absolute;
+    top: 26px;
+    left: 165px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #fffffff2;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .component .ellipse {
+    position: absolute;
+    width: 246px;
+    height: 249px;
+    top: 182px;
+    left: 647px;
+    object-fit: cover;
+  }
+  
+  .component .text-wrapper-5 {
+    position: absolute;
+    top: 464px;
+    left: 631px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .component .text-wrapper-6 {
+    position: absolute;
+    top: 537px;
+    left: 730px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #848484;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .component .overlap-2 {
+    position: absolute;
+    width: 214px;
+    height: 52px;
+    top: 558px;
+    left: 1224px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px #00000040;
+    background: linear-gradient(180deg, rgba(191.25, 255, 238.22, 0.58) 5.84%, rgba(191.25, 255, 238.22, 0.4) 100%);
+  }
+  
+  .component .text-wrapper-7 {
+    position: absolute;
+    top: 12px;
+    left: 54px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .component .polygon {
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    top: 19px;
+    left: 175px;
+  }
+  
+  .component .akar-icons-calendar {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 12px;
+    left: 14px;
+  }
+  
